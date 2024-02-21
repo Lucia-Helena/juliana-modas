@@ -1,14 +1,14 @@
 body {
-    font-family: roboto, sans-serif;
+    font-family: Roboto , sans-serif;
 }
 
 .navbar {
-    background-color: rgb(238, 80, 80) ;
+    background-color: #78866b;
 }
 
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
-    color:rgb(238, 80, 80);
+    color: #78866b;
 }
 
 #cabecalho .nav .nav-link,
@@ -26,25 +26,25 @@ body {
 }
 
 
-#sobre-o-restaurante, #cardapio {
-    background-color:rgb(245, 227, 227);
+#sobre-a-loja, #catalogo {
+    background-color:#e2e9dc ;
 }
 
 .text-colored {
-    color: rgb(238, 80, 80)
+    color: #78866b;
 }
 
-.nav-cardapio .nav-link.active {
-    background-color: rgb(238, 80, 80);
+.nav-catalogo .nav-link.active {
+    background-color:#78866b ;
     color: #fff;
 }
 
-.nav-cardapio .nav-link:hover,
+.nav-catalogo .nav-link:hover,
 #fale-conosco button{
-    color: rgb(238, 80, 80);
+    color: #78866b;
 }
 
-.nav-cardapio .nav-link.active:hover {
+.nav-catalogo .nav-link.active:hover {
     color: #fff;
 }
 
